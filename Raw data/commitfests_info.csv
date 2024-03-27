@@ -1,0 +1,153 @@
+version,release_year,text_name_cf,cf_id,status,count
+11,2018,2018-03,5,Moved to next,91
+12,2019,2018-07,1,Committed,55
+12,2019,2018-07,1,Moved to next CF,137
+12,2019,2018-07,1,Withdrawn,0
+12,2019,2018-07,1,Returned with Feedback,2
+12,2019,2018-07,1,Rejected,6
+12,2019,2018-09,2,Committed,46
+12,2019,2018-09,2,Moved to next CF,128
+12,2019,2018-09,2,Withdrawn,0
+12,2019,2018-09,2,Rejected,5
+12,2019,2018-09,2,Returned with Feedback,36
+12,2019,2018-11,3,Committed,60
+12,2019,2018-11,3,Moved to next CF,132
+12,2019,2018-11,3,Withdrawn,0
+12,2019,2018-11,3,Rejected,5
+12,2019,2018-11,3,Returned with Feedback,12
+12,2019,2019-01,4,Committed,58
+12,2019,2019-01,4,Moved to next CF,127
+12,2019,2019-01,4,Withdrawn,4
+12,2019,2019-01,4,Rejected,3
+12,2019,2019-01,4,Returned with Feedback,38
+12,2019,2019-03,5,Committed,100
+12,2019,2019-03,5,Moved to next CF,84
+12,2019,2019-03,5,Withdrawn,5
+12,2019,2019-03,5,Rejected,3
+12,2019,2019-03,5,Returned with Feedback,15
+13,2020,2019-07,1,Committed,64
+13,2020,2019-07,1,Moved to next CF,147
+13,2020,2019-07,1,Withdrawn,11
+13,2020,2019-07,1,Returned with Feedback,7
+13,2020,2019-07,1,Rejected,2
+13,2020,2019-09,2,Committed,39
+13,2020,2019-09,2,Moved to next CF,151
+13,2020,2019-09,2,Withdrawn,11
+13,2020,2019-09,2,Rejected,1
+13,2020,2019-09,2,Returned with Feedback,26
+13,2020,2019-11,3,Committed,35
+13,2020,2019-11,3,Moved to next CF,149
+13,2020,2019-11,3,Withdrawn,4
+13,2020,2019-11,3,Rejected,6
+13,2020,2019-11,3,Returned with Feedback,27
+13,2020,2020-01,4,Committed,49
+13,2020,2020-01,4,Moved to next CF,145
+13,2020,2020-01,4,Withdrawn,5
+13,2020,2020-01,4,Rejected,4
+13,2020,2020-01,4,Returned with Feedback,12
+13,2020,2020-03,5,Committed,90
+13,2020,2020-03,5,Moved to next CF,117
+13,2020,2020-03,5,Withdrawn,8
+13,2020,2020-03,5,Rejected,1
+13,2020,2020-03,5,Returned with Feedback,21
+14,2021,2020-07,1,Committed,65
+14,2021,2020-07,1,Moved to next CF,145
+14,2021,2020-07,1,Withdrawn,9
+14,2021,2020-07,1,Returned with Feedback,25
+14,2021,2020-07,1,Rejected,2
+14,2021,2020-09,2,Committed,48
+14,2021,2020-09,2,Moved to next CF,152
+14,2021,2020-09,2,Withdrawn,4
+14,2021,2020-09,2,Rejected,3
+14,2021,2020-09,2,Returned with Feedback,28
+14,2021,2020-11,3,Committed,69
+14,2021,2020-11,3,Moved to next CF,151
+14,2021,2020-11,3,Withdrawn,10
+14,2021,2020-11,3,Rejected,1
+14,2021,2020-11,3,Returned with Feedback,13
+14,2021,2021-01,4,Committed,56
+14,2021,2021-01,4,Moved to next CF,192
+14,2021,2021-01,4,Withdrawn,8
+14,2021,2021-01,4,Rejected,0
+14,2021,2021-01,4,Returned with Feedback,4
+14,2021,2021-03,5,Committed,122
+14,2021,2021-03,5,Moved to next CF,133
+14,2021,2021-03,5,Withdrawn,14
+14,2021,2021-03,5,Rejected,2
+14,2021,2021-03,5,Returned with Feedback,24
+15,2022,2021-07,1,Committed,81
+15,2022,2021-07,1,Moved to next CF,233
+15,2022,2021-07,1,Withdrawn,20
+15,2022,2021-07,1,Returned with Feedback,2
+15,2022,2021-07,1,Rejected,6
+15,2022,2021-09,2,Committed,54
+15,2022,2021-09,2,Moved to next CF,209
+15,2022,2021-09,2,Withdrawn,2
+15,2022,2021-09,2,Rejected,3
+15,2022,2021-09,2,Returned with Feedback,49
+15,2022,2021-11,3,Committed,58
+15,2022,2021-11,3,Moved to next CF,184
+15,2022,2021-11,3,Withdrawn,13
+15,2022,2021-11,3,Rejected,1
+15,2022,2021-11,3,Returned with Feedback,31
+15,2022,2022-01,4,Committed,58
+15,2022,2022-01,4,Moved to next CF,203
+15,2022,2022-01,4,Withdrawn,9
+15,2022,2022-01,4,Rejected,18
+15,2022,2022-01,4,Returned with Feedback,5
+15,2022,2022-03,5,Committed,98
+15,2022,2022-03,5,Moved to next CF,140
+15,2022,2022-03,5,Withdrawn,7
+15,2022,2022-03,5,Rejected,32
+15,2022,2022-03,5,Returned with Feedback,8
+16,2023,2022-07,1,Waiting on Author,1
+16,2023,2022-07,1,Committed,77
+16,2023,2022-07,1,Moved to next CF,182
+16,2023,2022-07,1,Withdrawn,12
+16,2023,2022-07,1,Returned with Feedback,32
+16,2023,2022-07,1,Rejected,4
+16,2023,2022-09,2,Committed,65
+16,2023,2022-09,2,Moved to next CF,183
+16,2023,2022-09,2,Withdrawn,9
+16,2023,2022-09,2,Rejected,36
+16,2023,2022-09,2,Returned with Feedback,3
+16,2023,2022-11,3,Committed,94
+16,2023,2022-11,3,Moved to next CF,174
+16,2023,2022-11,3,Withdrawn,13
+16,2023,2022-11,3,Rejected,4
+16,2023,2022-11,3,Returned with Feedback,22
+16,2023,2023-01,4,Committed,70
+16,2023,2023-01,4,Moved to next CF,184
+16,2023,2023-01,4,Withdrawn,13
+16,2023,2023-01,4,Rejected,0
+16,2023,2023-01,4,Returned with Feedback,12
+16,2023,2023-03,5,Committed,127
+16,2023,2023-03,5,Moved to next CF,151
+16,2023,2023-03,5,Withdrawn,22
+16,2023,2023-03,5,Rejected,10
+16,2023,2023-03,5,Returned with Feedback,9
+17,2024,2023-07,1,Committed,87
+17,2024,2023-07,1,Moved to next CF,227
+17,2024,2023-07,1,Withdrawn,6
+17,2024,2023-07,1,Returned with Feedback,1
+17,2024,2023-07,1,Rejected,29
+17,2024,2023-09,2,Committed,68
+17,2024,2023-09,2,Moved to next CF,250
+17,2024,2023-09,2,Withdrawn,5
+17,2024,2023-09,2,Rejected,1
+17,2024,2023-09,2,Returned with Feedback,14
+17,2024,2023-11,3,Committed,86
+17,2024,2023-11,3,Moved to next CF,235
+17,2024,2023-11,3,Withdrawn,14
+17,2024,2023-11,3,Rejected,9
+17,2024,2023-11,3,Returned with Feedback,3
+17,2024,2024-01,4,Committed,75
+17,2024,2024-01,4,Moved to next CF,210
+17,2024,2024-01,4,Withdrawn,16
+17,2024,2024-01,4,Rejected,2
+17,2024,2024-01,4,Returned with Feedback,49
+17,2024,2024-03,5,Committed,91
+17,2024,2024-03,5,Moved to next CF,7
+17,2024,2024-03,5,Withdrawn,9
+17,2024,2024-03,5,Rejected,5
+17,2024,2024-03,5,Returned with Feedback,3
