@@ -1,4 +1,4 @@
-# pgconf2024_Russia
+# Postgres statistics for pgconf2024_Russia
 Сырые данные статистики по патчам в PostgreSQL, команды и некоторые интересные графики
 
 - [commitfests info](https://github.com/TolmachevPavel/pgconf2024_Russia/tree/main/raw%20data/commitfests%20info) - собранная статистика с сайта commitfest.postgresql.org;
